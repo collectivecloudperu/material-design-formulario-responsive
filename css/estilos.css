@@ -1,0 +1,35 @@
+html, body {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Formulario */
+.mdl-seccion-formulario.mdl-card {
+  width: 100%;
+}
+
+.mdl-seccion-formulario > .mdl-card__menu {
+  color: #444444;
+}
+
+.txt_formulario {
+  text-align: center;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+  color: inherit;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: normal;
+  overflow: hidden;
+  -webkit-transform-origin: 149px 48px;
+  transform-origin: 149px 48px;
+  margin: 0;
+}
+
+.frmensaje {
+  width: 100%;
+}
+
